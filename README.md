@@ -1,6 +1,6 @@
 # all AI news (allainews.com) - Sources
 
-A list of online news & info sources in the AI/ML/Data Science space
+A list of online news & info sources in the AI/ML/Data Science space with their website + RSS feed.
 
 ## Contents
 
