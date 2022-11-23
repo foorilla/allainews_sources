@@ -4,10 +4,10 @@ A list of online news & info sources in the AI/ML/Data Science space
 
 ## Contents
 
-- [AI/ML News](#ai-ml-news)
-- [AI/ML Podcasts](#ai-ml-podcasts)
-- [AI/ML Videos](#ai-ml-podcasts)
-- [AI/ML Jobs](#ai-ml-jobs)
+- [AI/ML News](#aiml-news)
+- [AI/ML Podcasts](#aiml-podcasts)
+- [AI/ML Videos](#aiml-podcasts)
+- [AI/ML Jobs](#aiml-jobs)
 
 ## AI/ML News
 
