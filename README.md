@@ -6,7 +6,7 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [AI, ML, Big Data News](#ai-ml-big-data-news)
 - [AI, ML, Big Data Podcasts](#ai-ml-big-data-podcasts)
-- [AI, ML, Big Data Videos](#ai-ml-big-data-podcasts)
+- [AI, ML, Big Data Videos](#ai-ml-big-data-videos)
 - [AI, ML, Big Data Jobs](#ai-ml-big-data-jobs)
 
 ## AI, ML, Big Data News
