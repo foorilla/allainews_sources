@@ -33,6 +33,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Announcements - Stability AI](https://stability.ai/blog/) - (RSS feed: https://stability.ai/blog?format=rss)
 
+- [Arize AI - Blog](https://arize.com/blog-course/) - Learning Resource for ML Observability and LLMOps (RSS feed: https://www.arize.com/feed/)
+
 - [Ars Technica - All content](https://arstechnica.com) - All Ars Technica stories (RSS feed: https://feeds.arstechnica.com/arstechnica/index)
 
 - [Artificial Intelligence](https://www.reddit.com/r/artificial) - Reddit&#x27;s home for Artificial Intelligence (RSS feed: https://www.reddit.com/r/artificial.json?limit=50)
