@@ -63,7 +63,7 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Blog Archives • David Stutz](https://davidstutz.de/category/blog/) - Robust and trustworthy artificial intelligence and computer vision research and engineering (RSS feed: https://davidstutz.de/category/blog/feed)
 
-- [Blog Content - TOGETHER](https://www.together.xyz/blog/) - (RSS feed: https://www.together.xyz/blog?format=rss)
+- [Blog Content - TOGETHER](https://www.together.xyz/blog/) - 503 Service Unavailable Please visit status.squarespace.com for updates QzzEFXlV/oh6BcUmr @ Thu, 18 May 2023 19:41:35 GMT &amp;amp;&amp;amp;&amp;gt;&amp;amp;&amp;amp;&amp;lt; (RSS feed: https://www.together.xyz/blog?format=rss)
 
 - [Blog - neptune.ai](https://neptune.ai/blog) - ML metadata store: track experiments, register models, integrate with any MLOps tool stack. (RSS feed: https://neptune.ai/blog/feed)
 
@@ -101,7 +101,7 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Databricks](https://www.databricks.com) - Making big data simple. (RSS feed: https://www.databricks.com/feed)
 
-- [Dataconomy](https://dataconomy.com) - Bridging the gap between technology and business (RSS feed: https://dataconomy.com/feed)
+- [Dataconomy](https://dataconomy.com) - Bridging the gap between technology and business. (RSS feed: https://dataconomy.com/feed)
 
 - [Datafloq](https://datafloq.com/) - Data and Technology Insights (RSS feed: https://datafloq.com/feed/?post_type=post)
 
@@ -133,7 +133,7 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Generational](https://www.generational.pub) - Essays and briefings about the most consequential AI trends and companies. Read by &gt;1,000 leading investors and operators. (RSS feed: https://www.generational.pub/feed)
 
-- [Get AI Insights For Your Organization From Forrester](https://www.forrester.com/blogs/category/artificial-intelligence-ai/) - (RSS feed: https://www.forrester.com/blogs/category/artificial-intelligence-ai/feed)
+- [Get AI Insights For Your Organization From Forrester](https://www.forrester.com/blogs/category/artificial-intelligence-ai/) - 502 Bad Gateway (RSS feed: https://www.forrester.com/blogs/category/artificial-intelligence-ai/feed)
 
 - [gHacks Technology News](https://www.ghacks.net) - The independent technology news blog (RSS feed: https://www.ghacks.net/feed/)
 
@@ -193,8 +193,6 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [MarkTechPost](https://www.marktechpost.com/) - An Artificial Intelligence News Platform (RSS feed: https://www.marktechpost.com/feed)
 
-- [Mashable](https://mashable.com/) - Mashable is a global, multi-platform media and entertainment company. (RSS feed: https://mashable.com/feeds/rss/tech)
-
 - [Max Woolf&#x27;s Blog](https://minimaxir.com/post/) - Posts (RSS feed: https://minimaxir.com/post/index.xml)
 
 - [Microsoft Research](https://www.microsoft.com/en-us/research/) - (RSS feed: https://www.microsoft.com/en-us/research/feed/)
@@ -213,9 +211,9 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [New Scientist - Technology](https://www.newscientist.com/) - New Scientist - Technology (RSS feed: https://www.newscientist.com/subject/technology/feed/)
 
-- [News on Artificial Intelligence and Machine Learning](https://techxplore.com/machine-learning-ai-news/) - The latest news on Artificial Intelligence and Machine Learning (RSS feed: https://techxplore.com/rss-feed/machine-learning-ai-news/)
-
 - [News on Artificial Intelligence and Machine Learning](https://techxplore.com/machine-learning-ai-news/) - The latest news on Artificial Intelligence and Machine Learning (RSS feed: https://phys.org/rss-feed/technology-news/machine-learning-ai/)
+
+- [News on Artificial Intelligence and Machine Learning](https://techxplore.com/machine-learning-ai-news/) - The latest news on Artificial Intelligence and Machine Learning (RSS feed: https://techxplore.com/rss-feed/machine-learning-ai-news/)
 
 - [News, Tutorials, AI Research](https://www.assemblyai.com/blog/) - Stay up to date with product news, company news, the latest AI research, and AssemblyAI tutorials. (RSS feed: https://www.assemblyai.com/blog/rss/)
 
@@ -412,6 +410,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [Aleksa Gordić - The AI Epiphany](https://www.youtube.com/channel/UCj8shE7aIn4Yawwbo2FceCQ) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCj8shE7aIn4Yawwbo2FceCQ)
 
 - [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC7cs8q-gJRlGwj4A8OmCmXg)
+
+- [All About AI](https://www.youtube.com/channel/UCR9j1jqqB5Rse69wjUnbYwA) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCR9j1jqqB5Rse69wjUnbYwA)
 
 - [Allen Institute for AI](https://www.youtube.com/channel/UCEqgmyWChwvt6MFGGlmUQCQ) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCEqgmyWChwvt6MFGGlmUQCQ)
 
