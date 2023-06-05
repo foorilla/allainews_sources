@@ -101,8 +101,6 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Databricks](https://www.databricks.com) - Making big data simple. (RSS feed: https://www.databricks.com/feed)
 
-- [Dataconomy](https://dataconomy.com) - Bridging the gap between technology and business. (RSS feed: https://dataconomy.com/feed)
-
 - [Datafloq](https://datafloq.com/) - Data and Technology Insights (RSS feed: https://datafloq.com/feed/?post_type=post)
 
 - [Data Machina](https://datamachina.substack.com) - Keep up with the latest AI / ML research, projects &amp; repos. A weekly deep dive into what&#x27;s new in … (RSS feed: https://datamachina.substack.com/feed)
@@ -153,8 +151,6 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [IEEE Spectrum](https://spectrum.ieee.org/) - IEEE Spectrum (RSS feed: https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss)
 
-- [IEEE Spectrum](https://spectrum.ieee.org/) - IEEE Spectrum (RSS feed: https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss)
-
 - [InfoQ - AI, ML &amp; Data Engineering](https://www.infoq.com) - InfoQ AI, ML &amp; Data Engineering feed (RSS feed: https://feed.infoq.com/ai-ml-data-eng/)
 
 - [InfoWorld Analytics](https://www.infoworld.com) - (RSS feed: https://www.infoworld.com/category/analytics/index.rss)
@@ -202,6 +198,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [MIT News - Machine learning](https://news.mit.edu/topic/mitmachine-learning-rss.xml) - MIT news feed about: Machine learning (RSS feed: https://news.mit.edu/topic/mitmachine-learning-rss.xml)
 
 - [MIT Technology Review](https://www.technologyreview.com) - (RSS feed: https://www.technologyreview.com/feed/)
+
+- [Mozilla Foundation Blog](https://foundation.mozilla.org/blog/) - The Mozilla Foundation Blog (RSS feed: https://foundation.mozilla.org/en/blog/rss/)
 
 - [Natural Language Processing](https://www.reddit.com/r/LanguageTechnology) - Natural language processing (NLP) is a field of computer science, artificial intelligence and computational linguistics concerned with the interactions between … (RSS feed: https://www.reddit.com/r/LanguageTechnology.json?limit=50)
 
@@ -274,6 +272,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [TechCrunch](https://techcrunch.com/) - Startup and Technology News (RSS feed: https://techcrunch.com/feed/)
 
 - [Techmeme](http://www.techmeme.com/) - Tech Web, page A1 (RSS feed: https://www.techmeme.com/feed.xml)
+
+- [Technology Archives - Reuters News Agency](https://www.reutersagency.com/en/) - We tell all sides, but take none. We go back to the start, where there’s no bias and no agenda … (RSS feed: https://www.reutersagency.com/feed/?best-topics=tech)
 
 - [TechSpot](https://www.techspot.com) - TechSpot News - All Stories (RSS feed: https://www.techspot.com/backend.xml)
 
@@ -468,6 +468,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [Prompt Engineering](https://www.youtube.com/channel/UCDq7SjbgRKty5TgGafW8Clg) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCDq7SjbgRKty5TgGafW8Clg)
 
 - [Rabbitmetrics](https://www.youtube.com/channel/UCNszHNG0PlhWJdtNqFvwMWw) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCNszHNG0PlhWJdtNqFvwMWw)
+
+- [Reuven Lerner](https://www.youtube.com/channel/UCBqMxo5ch1NN0hZsM58gf6Q) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCBqMxo5ch1NN0hZsM58gf6Q)
 
 - [Sam Witteveen](https://www.youtube.com/channel/UC55ODQSvARtgSyc8ThfiepQ) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC55ODQSvARtgSyc8ThfiepQ)
 
