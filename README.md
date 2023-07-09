@@ -25,6 +25,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [AI News | VentureBeat](https://venturebeat.com/category/ai/) - Transformative tech coverage that matters (RSS feed: https://venturebeat.com/category/ai/feed/)
 
+- [Ai Prompt Programming](https://www.reddit.com/r/aipromptprogramming/) - This group focuses on using AI tools like ChatGPT, OpenAI API, and other automated code generators for Ai programming &amp; … (RSS feed: https://www.reddit.com/r/aipromptprogramming.json?limit=50)
+
 - [AI – SiliconANGLE](https://siliconangle.com) - Extracting the signal from the noise. (RSS feed: https://siliconangle.com/category/ai/feed)
 
 - [AI Snake Oil](https://aisnakeoil.substack.com) - What AI *can&#x27;t* do (RSS feed: https://aisnakeoil.substack.com/feed)
@@ -279,6 +281,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [TechTalks](https://bdtechtalks.com) - Technology solving problems... and creating new ones (RSS feed: https://bdtechtalks.com/feed/)
 
+- [The Algorithmic Bridge](https://thealgorithmicbridge.substack.com) - Bridging the gap between AI and people. Join 13,000 others, including professionals from the Big Five: Google, Amazon, Microsoft, Meta, … (RSS feed: https://thealgorithmicbridge.substack.com/feed)
+
 - [The Berkeley Artificial Intelligence Research Blog](http://bair.berkeley.edu/blog/) - The BAIR Blog (RSS feed: https://bair.berkeley.edu/blog/feed.xml)
 
 - [THE DECODER](https://the-decoder.com/) - Artificial Intelligence: News, Business, Research (RSS feed: https://the-decoder.com/feed/)
@@ -405,6 +409,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [AI Coffee Break with Letitia](https://www.youtube.com/channel/UCobqgqE4i5Kf7wrxRxhToQA) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCobqgqE4i5Kf7wrxRxhToQA)
 
+- [AI Explained](https://www.youtube.com/channel/UCNJ1Ymd5yFuUPtn21xtRbbw) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw)
+
 - [Aitrepreneur](https://www.youtube.com/channel/UCEAbqW0HFB_UxZoUDO0kJBw) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCEAbqW0HFB_UxZoUDO0kJBw)
 
 - [Aleksa Gordić - The AI Epiphany](https://www.youtube.com/channel/UCj8shE7aIn4Yawwbo2FceCQ) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCj8shE7aIn4Yawwbo2FceCQ)
@@ -420,6 +426,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [AssemblyAI](https://www.youtube.com/channel/UCtatfZMf-8EkIwASXM4ts0A) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCtatfZMf-8EkIwASXM4ts0A)
 
 - [Avra](https://www.youtube.com/channel/UCDMP6ATYKNXMvn2ok1gfM7Q) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCDMP6ATYKNXMvn2ok1gfM7Q)
+
+- [code_your_own_AI](https://www.youtube.com/channel/UCfOvNb3xj28SNqPQ_JIbumg) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCfOvNb3xj28SNqPQ_JIbumg)
 
 - [Data Independent](https://www.youtube.com/channel/UCyR2Ct3pDOeZSRyZH5hPO-Q) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCyR2Ct3pDOeZSRyZH5hPO-Q)
 
@@ -478,6 +486,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [Super Data Science Podcast with Jon Krohn](https://www.youtube.com/channel/UCMbtqTGdSsxYYhhTpV4lSTQ) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCMbtqTGdSsxYYhhTpV4lSTQ)
 
 - [TensorFlow](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC0rqucBdTuFTjJiefW5t-IQ)
+
+- [The AI Advantage](https://www.youtube.com/channel/UCHhYXsLBEVVnbvsq57n1MTQ) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCHhYXsLBEVVnbvsq57n1MTQ)
 
 - [The Data Scientist Show - Daliana Liu](https://www.youtube.com/channel/UCa0RTSXWyZdh7IciV9r-3ow) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCa0RTSXWyZdh7IciV9r-3ow)
 
