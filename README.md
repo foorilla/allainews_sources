@@ -25,7 +25,7 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [AI News | VentureBeat](https://venturebeat.com/category/ai/) - Transformative tech coverage that matters (RSS feed: https://venturebeat.com/category/ai/feed/)
 
-- [Ai Prompt Programming](https://www.reddit.com/r/aipromptprogramming/) - This group focuses on using AI tools like ChatGPT, OpenAI API, and other automated code generators for Ai programming &amp; … (RSS feed: https://www.reddit.com/r/aipromptprogramming.json?limit=50)
+- [Ai Prompt Programming](https://www.reddit.com/r/aipromptprogramming/) - This group focuses on using AI tools like ChatGPT, OpenAI API, and other automated code generators for Ai programming &amp; … (RSS feed: https://www.reddit.com/r/aipromptprogramming)
 
 - [AI – SiliconANGLE](https://siliconangle.com) - Extracting the signal from the noise. (RSS feed: https://siliconangle.com/category/ai/feed)
 
@@ -41,7 +41,7 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Ars Technica - All content](https://arstechnica.com) - All Ars Technica stories (RSS feed: https://feeds.arstechnica.com/arstechnica/index)
 
-- [Artificial Intelligence](https://www.reddit.com/r/artificial) - Reddit&#x27;s home for Artificial Intelligence (RSS feed: https://www.reddit.com/r/artificial.json?limit=50)
+- [Artificial Intelligence](https://www.reddit.com/r/artificial) - Reddit&#x27;s home for Artificial Intelligence (RSS feed: https://www.reddit.com/r/artificial)
 
 - [Artificial intelligence (AI) – The Conversation](https://theconversation.com) - (RSS feed: https://theconversation.com/europe/topics/artificial-intelligence-ai-90/articles.atom)
 
@@ -83,7 +83,7 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Chip Huyen](https://huyenchip.com) - Chip Huyen is a writer and computer scientist. She works to bring the best engineering practices to machine learning production. (RSS feed: https://huyenchip.com/feed)
 
-- [Computer Vision](https://www.reddit.com/r/computervision) - Computer Vision is the scientific subfield of AI concerned with developing algorithms to extract meaningful information from raw images, videos, … (RSS feed: https://www.reddit.com/r/computervision.json?limit=50)
+- [Computer Vision](https://www.reddit.com/r/computervision) - Computer Vision is the scientific subfield of AI concerned with developing algorithms to extract meaningful information from raw images, videos, … (RSS feed: https://www.reddit.com/r/computervision)
 
 - [Computerworld](https://www.computerworld.com) - The Voice of Business Technology. (RSS feed: http://www.computerworld.com/index.rss)
 
@@ -109,19 +109,21 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Datanami](https://www.datanami.com/) - Data Science • AI • Advanced Analytics (RSS feed: https://www.datanami.com/feed/)
 
-- [Data Science](https://www.reddit.com/r/datascience) - A place for data science practitioners and professionals to discuss and debate data science career questions. (RSS feed: https://www.reddit.com/r/datascience.json?limit=50)
+- [Data Science](https://www.reddit.com/r/datascience) - A place for data science practitioners and professionals to discuss and debate data science career questions. (RSS feed: https://www.reddit.com/r/datascience)
 
 - [DebuggerCafe](https://debuggercafe.com) - Machine Learning and Deep Learning (RSS feed: https://debuggercafe.com/feed/)
 
 - [Deephaven Blog](https://deephaven.io/blog) - Deephaven Blog (RSS feed: https://deephaven.io/blog/rss.xml)
 
-- [Deep Learning](https://www.reddit.com/r/deeplearning) - (RSS feed: https://www.reddit.com/r/deeplearning.json?limit=50)
+- [Deep Learning](https://www.reddit.com/r/deeplearning) - (RSS feed: https://www.reddit.com/r/deeplearning)
 
 - [DeepMind Blog](https://www.deepmind.com) - Read the latest articles and stories from DeepMind and find out more about our latest breakthroughs in cutting-edge AI research. (RSS feed: https://deepmind.com/blog/feed/basic/)
 
 - [Deep Tech - Tech.eu](https://tech.eu/category/deep-tech/) - The premier source of European technology news, data, research, analysis and in-depth market intelligence. (RSS feed: https://tech.eu/category/deep-tech/feed)
 
 - [DEV Community](https://dev.to) - The most recent home feed on DEV Community. (RSS feed: https://dev.to/feed)
+
+- [EE Times](https://www.eetimes.com/) - Connecting The Global Electronics Community (RSS feed: https://www.eetimes.com/feed)
 
 - [Engadget](https://www.engadget.com/) - Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics (RSS feed: https://www.engadget.com/rss.xml)
 
@@ -179,7 +181,7 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Lightning AI](https://lightning.ai/pages/) - The platform for teams to build AI. (RSS feed: https://lightning.ai/pages/feed/)
 
-- [Machine Learning](https://www.reddit.com/r/MachineLearning) - (RSS feed: https://www.reddit.com/r/MachineLearning.json?limit=50)
+- [Machine Learning](https://www.reddit.com/r/MachineLearning) - (RSS feed: https://www.reddit.com/r/MachineLearning)
 
 - [Machine Learning &amp; Big Data Blog – BMC Software | Blogs](https://s7280.pcdn.co) - (RSS feed: https://www.bmc.com/blogs/categories/machine-learning-big-data/feed)
 
@@ -187,7 +189,7 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Machine learning : nature.com subject feeds](https://www.nature.com/subjects/machine-learning) - Latest news and research from Nature.com on the topic of Machine learning (RSS feed: https://www.nature.com/subjects/machine-learning.rss)
 
-- [machinelearningnews](https://www.reddit.com/r/machinelearningnews) - We are a community of machine learning enthusiasts/researchers/journalists/writers who share interesting news and articles about the applications of AI. You … (RSS feed: https://www.reddit.com/r/machinelearningnews.json?limit=50)
+- [machinelearningnews](https://www.reddit.com/r/machinelearningnews) - We are a community of machine learning enthusiasts/researchers/journalists/writers who share interesting news and articles about the applications of AI. You … (RSS feed: https://www.reddit.com/r/machinelearningnews)
 
 - [MarkTechPost](https://www.marktechpost.com/) - An Artificial Intelligence News Platform (RSS feed: https://www.marktechpost.com/feed)
 
@@ -203,11 +205,11 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Mozilla Foundation Blog](https://foundation.mozilla.org/blog/) - The Mozilla Foundation Blog (RSS feed: https://foundation.mozilla.org/en/blog/rss/)
 
-- [Natural Language Processing](https://www.reddit.com/r/LanguageTechnology) - Natural language processing (NLP) is a field of computer science, artificial intelligence and computational linguistics concerned with the interactions between … (RSS feed: https://www.reddit.com/r/LanguageTechnology.json?limit=50)
+- [Natural Language Processing](https://www.reddit.com/r/LanguageTechnology) - Natural language processing (NLP) is a field of computer science, artificial intelligence and computational linguistics concerned with the interactions between … (RSS feed: https://www.reddit.com/r/LanguageTechnology)
 
 - [Neural Interfaces News -- ScienceDaily](https://www.sciencedaily.com/news/computers_math/neural_interfaces/) - Read amazing research on neural interfaces, brain-controlled robotic devices, microchips that mimic the brain and more. (RSS feed: https://www.sciencedaily.com/rss/computers_math/neural_interfaces.xml)
 
-- [Neural Networks, Deep Learning and Machine Learning](https://www.reddit.com/r/neuralnetworks) - Subreddit about Artificial Neural Networks, Deep Learning and Machine Learning. (RSS feed: https://www.reddit.com/r/neuralnetworks.json?limit=50)
+- [Neural Networks, Deep Learning and Machine Learning](https://www.reddit.com/r/neuralnetworks) - Subreddit about Artificial Neural Networks, Deep Learning and Machine Learning. (RSS feed: https://www.reddit.com/r/neuralnetworks)
 
 - [New Scientist - Technology](https://www.newscientist.com/) - New Scientist - Technology (RSS feed: https://www.newscientist.com/subject/technology/feed/)
 
@@ -237,9 +239,11 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Quanta Magazine](https://www.quantamagazine.org) - Illuminating science (RSS feed: https://api.quantamagazine.org/feed)
 
+- [Radix - Medium](https://medium.com/radix-ai-blog?source=rss----74b5b476362b---4) - Superpowering people with Artificial Intelligence - Medium (RSS feed: https://medium.com/feed/radix-ai-blog)
+
 - [R-bloggers](https://www.r-bloggers.com) - R news and tutorials contributed by hundreds of R bloggers (RSS feed: https://feeds.feedburner.com/RBloggers)
 
-- [Reinforcement Learning](https://www.reddit.com/r/reinforcementlearning) - Reinforcement learning is a subfield of AI/statistics focused on exploring/understanding complicated environments and learning how to optimally acquire rewards. Examples … (RSS feed: https://www.reddit.com/r/reinforcementlearning.json?limit=50)
+- [Reinforcement Learning](https://www.reddit.com/r/reinforcementlearning) - Reinforcement learning is a subfield of AI/statistics focused on exploring/understanding complicated environments and learning how to optimally acquire rewards. Examples … (RSS feed: https://www.reddit.com/r/reinforcementlearning)
 
 - [Replicate Blog](https://replicate.com/blog) - Machine learnings from the Replicate team (RSS feed: https://replicate.com/blog/rss)
 
@@ -289,7 +293,7 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [The Gradient](https://thegradient.pub/) - A digital publication about artificial intelligence and the future. (RSS feed: https://thegradient.pub/rss/)
 
-- [The Inner Join - Medium](https://innerjoin.bit.io?source=rss----b93b97fb5bac---4) - Data, explored. - Medium (RSS feed: https://innerjoin.bit.io/feed)
+- [The Information](https://www.theinformation.com) - The Information has a simple mission: deliver important, deeply reported stories about the technology business you won’t find elsewhere. Many … (RSS feed: https://www.theinformation.com/feed)
 
 - [The New Stack](https://thenewstack.io/) - The New Stack is a media platform for the people who build and manage software the world relies on. We … (RSS feed: https://thenewstack.io/feed)
 
@@ -423,6 +427,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Analytics India Magazine](https://www.youtube.com/channel/UCAlwrsgeJavG1vw9qSFOUmA) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCAlwrsgeJavG1vw9qSFOUmA)
 
+- [Anastasi In Tech](https://www.youtube.com/channel/UCORX3Cl7ByidjEgzSCgv9Yw) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCORX3Cl7ByidjEgzSCgv9Yw)
+
 - [AssemblyAI](https://www.youtube.com/channel/UCtatfZMf-8EkIwASXM4ts0A) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCtatfZMf-8EkIwASXM4ts0A)
 
 - [Avra](https://www.youtube.com/channel/UCDMP6ATYKNXMvn2ok1gfM7Q) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCDMP6ATYKNXMvn2ok1gfM7Q)
@@ -430,6 +436,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [code_your_own_AI](https://www.youtube.com/channel/UCfOvNb3xj28SNqPQ_JIbumg) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCfOvNb3xj28SNqPQ_JIbumg)
 
 - [Data Independent](https://www.youtube.com/channel/UCyR2Ct3pDOeZSRyZH5hPO-Q) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCyR2Ct3pDOeZSRyZH5hPO-Q)
+
+- [David Shapiro ~ AI](https://www.youtube.com/channel/UCvKRFNawVcuz4b9ihUTApCg) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCvKRFNawVcuz4b9ihUTApCg)
 
 - [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A)
 
@@ -472,6 +480,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [Olivio Sarikas](https://www.youtube.com/channel/UCCKx8mAHiFus-XYQLy_WnaA) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCCKx8mAHiFus-XYQLy_WnaA)
 
 - [Patrick Loeber](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbXgNpp0jedKWcQiULLbDTA)
+
+- [Playground AI](https://www.youtube.com/channel/UCUbLzJ30GLE1F5OSWNoYs9g) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCUbLzJ30GLE1F5OSWNoYs9g)
 
 - [Prompt Engineering](https://www.youtube.com/channel/UCDq7SjbgRKty5TgGafW8Clg) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCDq7SjbgRKty5TgGafW8Clg)
 
