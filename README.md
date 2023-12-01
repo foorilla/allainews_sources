@@ -331,6 +331,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [ΑΙhub](https://aihub.org) - Connecting the AI community and the world. - Association for the Understanding of Artificial Intelligence (RSS feed: https://aihub.org/feed?cat=-473)
 
+- [The Tech Deck](https://thetechdeck.hashnode.dev) - Your one-stop shop for the latest tech news and reviews. Linux | AI Tools | Cyber Security (RSS feed: https://thetechdeck.hashnode.dev/rss.xml)
+
 **[⬆ back to top](#contents)**
 
 ## AI, ML, Big Data Podcasts
