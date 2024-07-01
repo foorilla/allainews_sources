@@ -1,6 +1,6 @@
 # all AI news - Sources
 
-A list of online news & info sources in the AI, ML, Big Data space with their website + RSS feed. This is an extract of all the sources aggregated on the [allainews.com](https://allainews.com) website.
+A list of online news & info sources in the AI, ML, Big Data space with their website + RSS feed. This is an extract of all the sources aggregated on the [allainews.com](https://allainews.com) website (defunct in 07-2024).
 
 ## Contents
 
@@ -10,6 +10,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [AI, ML, Big Data Jobs](#ai-ml-big-data-jobs)
 
 ## AI, ML, Big Data News
+
+- [404 Media](https://www.404media.co/) - 404 Media is a new independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph … (RSS feed: https://www.404media.co/rss)
 
 - [Ahead of AI](https://magazine.sebastianraschka.com) - Ahead AI specializes in Machine Learning &amp; AI research and is read by more than 42,000 researchers and practitioners (across … (RSS feed: https://magazine.sebastianraschka.com/feed)
 
@@ -26,6 +28,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [AI News](https://www.artificialintelligence-news.com/) - Artificial Intelligence News (RSS feed: https://www.artificialintelligence-news.com/feed/rss/)
 
 - [AI News | VentureBeat](https://venturebeat.com/category/ai/) - Transformative tech coverage that matters (RSS feed: https://venturebeat.com/category/ai/feed/)
+
+- [AI Now Institute](https://ainowinstitute.org/category/news) - The AI Now Institute produces diagnosis and actionable policy research on artificial intelligence. (RSS feed: https://ainowinstitute.org/category/news/feed)
 
 - [Ai Prompt Programming](https://www.reddit.com/r/aipromptprogramming/) - This group focuses on using AI tools like ChatGPT, OpenAI API, and other automated code generators for Ai programming &amp; … (RSS feed: https://www.reddit.com/r/aipromptprogramming)
 
@@ -153,7 +157,7 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Hacker Noon - ai](https://hackernoon.com/tagged/ai) - Humans with irrational brains writing about machines with rational brains. (RSS feed: https://hackernoon.com/tagged/ai/feed)
 
-- [HealthTech Magazine](https://healthtechmagazine.net/) - (RSS feed: https://feeds.feedburner.com/HealthTechMagazine)
+- [HealthTech Magazine](https://healthtechmagazine.net/) - To continue, please type the characters below: About this page Our systems have detected unusual traffic from your computer network. … (RSS feed: https://feeds.feedburner.com/HealthTechMagazine)
 
 - [Hugging Face - Blog](https://huggingface.co/blog) - The Hugging Face blog (RSS feed: https://huggingface.co/blog/feed.xml)
 
@@ -168,6 +172,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [insideBIGDATA](https://insidebigdata.com/) - insideBIGDATA: Clear, Concise Insights on Big Data Strategies (RSS feed: https://insidebigdata.com/feed)
 
 - [Interconnects](https://www.interconnects.ai) - Linking important ideas of AI. The border between high-level and technical thinking. Read by leading engineers and researchers on Wednesday … (RSS feed: https://www.interconnects.ai/feed)
+
+- [International Business Times](https://www.ibtimes.com) - Latest News (RSS feed: https://www.ibtimes.com/rss)
 
 - [JMLR](http://www.jmlr.org) - Journal of Machine Learning Research (RSS feed: https://www.jmlr.org/jmlr.xml)
 
@@ -191,15 +197,13 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [Machine Learning &amp; Big Data Blog – BMC Software | Blogs](https://s7280.pcdn.co) - (RSS feed: https://www.bmc.com/blogs/categories/machine-learning-big-data/feed)
 
-- [Machine Learning Blog | ML@CMU | Carnegie Mellon University](https://blog.ml.cmu.edu) - (RSS feed: https://blog.ml.cmu.edu/feed)
+- [Machine Learning Blog | ML@CMU | Carnegie Mellon University](https://blog.ml.cmu.edu) - Request Timeout This request takes too long to process, it is timed out by the server. If it should not … (RSS feed: https://blog.ml.cmu.edu/feed)
 
 - [Machine learning : nature.com subject feeds](https://www.nature.com/subjects/machine-learning) - Latest news and research from Nature.com on the topic of Machine learning (RSS feed: https://www.nature.com/subjects/machine-learning.rss)
 
 - [machinelearningnews](https://www.reddit.com/r/machinelearningnews) - We are a community of machine learning enthusiasts/researchers/journalists/writers who share interesting news and articles about the applications of AI. You … (RSS feed: https://www.reddit.com/r/machinelearningnews)
 
 - [MarkTechPost](https://www.marktechpost.com/) - An Artificial Intelligence News Platform (RSS feed: https://www.marktechpost.com/feed)
-
-- [Max Woolf&#x27;s Blog](https://minimaxir.com/post/) - Posts (RSS feed: https://minimaxir.com/post/index.xml)
 
 - [Microsoft Research](https://www.microsoft.com/en-us/research/) - 502 Bad Gateway nginx (RSS feed: https://www.microsoft.com/en-us/research/feed/)
 
@@ -219,9 +223,9 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [New Scientist - Technology](https://www.newscientist.com/) - New Scientist - Technology (RSS feed: https://www.newscientist.com/subject/technology/feed/)
 
-- [News on Artificial Intelligence and Machine Learning](https://techxplore.com/machine-learning-ai-news/) - The latest news on Artificial Intelligence and Machine Learning (RSS feed: https://techxplore.com/rss-feed/machine-learning-ai-news/)
-
 - [News on Artificial Intelligence and Machine Learning](https://techxplore.com/machine-learning-ai-news/) - The latest news on Artificial Intelligence and Machine Learning (RSS feed: https://phys.org/rss-feed/technology-news/machine-learning-ai/)
+
+- [News on Artificial Intelligence and Machine Learning](https://techxplore.com/machine-learning-ai-news/) - The latest news on Artificial Intelligence and Machine Learning (RSS feed: https://techxplore.com/rss-feed/machine-learning-ai-news/)
 
 - [News, Tutorials, AI Research](https://www.assemblyai.com/blog/) - Stay up to date with product news, company news, the latest AI research, and AssemblyAI tutorials. (RSS feed: https://www.assemblyai.com/blog/rss/)
 
@@ -242,6 +246,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [philschmid blog](https://www.philschmid.de) - Hello, my name is Philipp. I write about machine learning and cloud with. You will find tutorials and explanations about … (RSS feed: https://www.philschmid.de/feed.xml)
 
 - [Playing with AI](https://erichartford.com) - Playing with AI (RSS feed: https://erichartford.com/rss.xml)
+
+- [Posts on Max Woolf&#x27;s Blog](https://minimaxir.com/post/) - Recent content in Posts on Max Woolf&#x27;s Blog (RSS feed: https://minimaxir.com/post/index.xml)
 
 - [Product Hunt — The best new products, every day](https://www.producthunt.com) - (RSS feed: https://www.producthunt.com/feed)
 
@@ -277,6 +283,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [stat.ML updates on arXiv.org](http://arxiv.org/) - Statistics -- Machine Learning (stat.ML) updates on the arXiv.org e-print archive (RSS feed: https://arxiv.org/rss/stat.ML)
 
+- [Stories by Netflix Technology Blog on Medium](https://medium.com/@netflixtechblog?source=rss-c3aeaf49d8a4------2) - Stories by Netflix Technology Blog on Medium (RSS feed: https://medium.com/feed/@netflixtechblog)
+
 - [Stories by ODSC - Open Data Science on Medium](https://medium.com/@odsc?source=rss-2b9d62538208------2) - Stories by ODSC - Open Data Science on Medium (RSS feed: https://medium.com/feed/@odsc)
 
 - [Synced](https://syncedreview.com) - AI Technology &amp; Industry Review (RSS feed: https://syncedreview.com/feed)
@@ -286,6 +294,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [TechCrunch](https://techcrunch.com/) - Startup and Technology News (RSS feed: https://techcrunch.com/feed/)
 
 - [Techmeme](http://www.techmeme.com/) - Tech Web, page A1 (RSS feed: https://www.techmeme.com/feed.xml)
+
+- [Tech Monitor](https://techmonitor.ai) - Navigating the horizon of business technology​. (RSS feed: https://techmonitor.ai/feed)
 
 - [Technology Archives - Reuters News Agency](https://www.reutersagency.com/en/) - We tell all sides, but take none. We go back to the start, where there’s no bias and no agenda … (RSS feed: https://www.reutersagency.com/feed/?best-topics=tech)
 
@@ -303,19 +313,25 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 - [The Information](https://www.theinformation.com) - The Information has a simple mission: deliver important, deeply reported stories about the technology business you won’t find elsewhere. Many … (RSS feed: https://www.theinformation.com/feed)
 
+- [The Intrinsic Perspective](https://www.theintrinsicperspective.com) - Bridging the two cultures of science and the humanities (RSS feed: https://www.theintrinsicperspective.com/feed/)
+
 - [The New Stack](https://thenewstack.io/) - The New Stack is a media platform for the people who build and manage software the world relies on. We … (RSS feed: https://thenewstack.io/feed)
 
 - [The Next Web](https://thenextweb.com) - Original and proudly opinionated perspectives for Generation T (RSS feed: https://thenextweb.com/neural/feed)
 
 - [The Register - Software: AI + ML](https://www.theregister.com/software/ai_ml/) - Biting the hand that feeds IT — Enterprise Technology News and Analysis (RSS feed: https://www.theregister.com/software/ai_ml/headlines.atom)
 
+- [The Rundown AI](https://www.therundown.ai/) - Get the rundown on the latest developments in AI before everyone else. (RSS feed: https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml)
+
 - [TheSequence](https://thesequence.substack.com) - The best source to stay up-to-date with the developments in the machine learning, artificial intelligence, and data science world. Trusted … (RSS feed: https://thesequence.substack.com/feed)
+
+- [The Stack](https://www.thestack.technology/) - Interviews, Insight, Intelligence for Digital Leaders (RSS feed: https://www.thestack.technology/latest/rss/)
 
 - [The TensorFlow Blog](https://blog.tensorflow.org/) - The official TensorFlow blog. (RSS feed: https://blog.tensorflow.org/feeds/posts/default?alt=rss)
 
 - [The TRADE](https://www.thetradenews.com/) - The leading news-based website for buy-side traders and hedge funds (RSS feed: https://www.thetradenews.com/feed/)
 
-- [The Verge -  All Posts](https://www.theverge.com/) - Be back soon. Chorus Logo Our sites are offline for maintenance. Thank you for your patience while we’re making these … (RSS feed: https://www.theverge.com/rss/index.xml)
+- [The Verge -  All Posts](https://www.theverge.com/) - (RSS feed: https://www.theverge.com/rss/index.xml)
 
 - [The Voicebot Podcast](https://voicebot.ai/voicebot-podcasts/) - The Voicebot Podcast is about the intersection of voice and artificial intelligence (AI) technologies. It is a weekly look at … (RSS feed: http://feeds.libsyn.com/102459/rss)
 
@@ -334,6 +350,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [Voicebot.ai](https://voicebot.ai) - Giving Voice to a Revolution (RSS feed: https://voicebot.ai/feed/)
 
 - [Weights &amp; Biases: Fully Connected](https://wandb.ai/fully-connected) - Fully Connected is your home for curated tutorials, conversations with industry leaders, deep dives into the newest ML research, and … (RSS feed: https://wandb.ai/fully-connected/rss.xml)
+
+- [Windows Blog](https://blogs.windows.com/) - (RSS feed: https://blogs.windows.com/feed)
 
 - [Wolfram Blog](https://blog.wolfram.com) - News, Views and Insights from Wolfram (RSS feed: https://blog.wolfram.com/feed/)
 
@@ -378,6 +396,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [NLP Highlights](http://allenai.org) - (RSS feed: http://feeds.soundcloud.com/users/soundcloud:users:306749289/sounds.rss)
 
 - [Not So Standard Deviations](http://nssdeviations.com) - (RSS feed: http://nssdeviations.com/rss)
+
+- [Postgres FM](https://postgres.fm/) - (RSS feed: https://feeds.transistor.fm/postgres-fm)
 
 - [Practical AI: Machine Learning, Data Science](https://changelog.com/practicalai) - (RSS feed: https://changelog.com/practicalai/feed)
 
@@ -438,6 +458,8 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 - [Analytics India Magazine](https://www.youtube.com/channel/UCAlwrsgeJavG1vw9qSFOUmA) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCAlwrsgeJavG1vw9qSFOUmA)
 
 - [Anastasi In Tech](https://www.youtube.com/channel/UCORX3Cl7ByidjEgzSCgv9Yw) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCORX3Cl7ByidjEgzSCgv9Yw)
+
+- [Andrej Baranovskij](https://www.youtube.com/channel/UCqSX0Z20QCEE7tZKaQ4pS3Q) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCqSX0Z20QCEE7tZKaQ4pS3Q)
 
 - [AssemblyAI](https://www.youtube.com/channel/UCtatfZMf-8EkIwASXM4ts0A) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCtatfZMf-8EkIwASXM4ts0A)
 
@@ -539,6 +561,6 @@ A list of online news & info sources in the AI, ML, Big Data space with their we
 
 ## AI, ML, Big Data Jobs
 
-- [ai-jobs.net](https://ai-jobs.net/) - The most comprehensive, lean and clean, no-nonsense job site related to all things Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), Data Engineering, Data Analytics, Big Data, and Data Science in general. (RSS feed: https://ai-jobs.net/feed/)
+- [aijobs.net](https://aijobs.net/) - The most comprehensive, lean and clean, no-nonsense job site related to all things Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), Data Engineering, Data Analytics, Big Data, and Data Science in general. (RSS feed: https://aijobs.net/feed/)
 
 **[⬆ back to top](#contents)**
