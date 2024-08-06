@@ -1,6 +1,6 @@
 # all AI news - Sources
 
-A list of online news & info sources in the AI, ML, Big Data space with their website + RSS feed. This is an extract of all the sources aggregated on the [allainews.com](https://allainews.com) website (defunct in 07-2024).
+A list of online news & info sources in the AI, ML, Big Data space with their website + RSS feed. This is an extract of all the sources aggregated on the allainews.com website (defunct in 07-2024).
 
 ## Contents
 
