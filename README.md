@@ -431,6 +431,8 @@ UPDATE: You can now find a live web feed from most sources below at [foorilla.co
 
 - [This Day in AI Podcast](https://www.thisdayinai.com) - (RSS feed: https://feeds.transistor.fm/this-day-in-ai)
 
+- [Tool Use - AI Conversations](https://www.tooluse.ai) - (RSS feed: https://anchor.fm/s/fb2a98a0/podcast/rss)
+
 - [Utilizing Tech Season 5: Utilizing Edge](https://www.utilizingtech.com) - (RSS feed: https://anchor.fm/s/32ec7408/podcast/rss)
 
 **[⬆ back to top](#contents)**
