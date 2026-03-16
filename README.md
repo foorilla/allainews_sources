@@ -341,6 +341,8 @@ UPDATE: You can now find a live web feed from most sources below at [foorilla.co
 
 - [Towards Data Science - Medium](https://towardsdatascience.com?source=rss----7f60cf5620c9---4) - Your home for data science. A Medium publication sharing concepts, ideas and codes. - Medium (RSS feed: https://towardsdatascience.com/feed)
 
+- [Turing Post](https://www.turingpost.com/) - Saves you a lot of research time, plus gives a flashback to ML history and insights into the future. Stay ahead alongside over 85,000 professionals from top AI labs, ML startups, and enterprises (RSS Feed: https://rss.beehiiv.com/feeds/UJIoBuf5BX.xml )
+- 
 - [Unite.AI](https://www.unite.ai/) - - AI News (RSS feed: https://www.unite.ai/feed/)
 
 - [Unwind AI](https://unwindai.substack.com) - Your weekly newsletter on what&#x27;s trending in the AI - from the field to your inbox! Read by over 5000+ … (RSS feed: https://unwindai.substack.com/feed)
