@@ -107,7 +107,7 @@ UPDATE: You can now find a live web feed from most sources below at [foorilla.co
 
 - [DagsHub Blog](https://dagshub.com/blog/) - Open Source Data Science, ML Workflows and MLOps (RSS feed: https://dagshub.com/blog/rss/)
 
-- [Dark Reading](https://www.darkreading.com) - Dark Reading: Connecting the Information and Security Community (RSS feed: https://www.darkreading.com/rss_simple.asp)
+- [Dark Reading](https://www.darkreading.com) - Dark Reading: Connecting the Information and Security Community (RSS feed: [https://www.darkreading.com/rss.xml](https://www.darkreading.com/rss.xml))
 
 - [Databricks](https://www.databricks.com) - Making big data simple. (RSS feed: https://www.databricks.com/feed)
 
