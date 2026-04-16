@@ -41,6 +41,8 @@ UPDATE: You can now find a live web feed from most sources below at [foorilla.co
 
 - [AI – Uber Engineering Blog](https://www.uber.com/en-VN/blog/engineering/) - Software engineering and technologies that set the world in motion (RSS feed: https://eng.uber.com/category/articles/ai/feed)
 
+- [AIPower.Spot](http://aipower.spot) - AI tools catalog with search, tags, quiz, AI assistant and blog in 12 languages (RSS feed: https://aipower.spot/feed)
+
 - [Anaconda Blog](https://www.anaconda.com/blog) - The Data Science Blog (RSS feed: https://www.anaconda.com/blog/feed)
 
 - [Analytics India Magazine](https://analyticsindiamag.com/) - Artificial Intelligence, Emerging Tech, Data Science (RSS feed: https://analyticsindiamag.com/feed/)
