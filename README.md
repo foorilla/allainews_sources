@@ -17,6 +17,8 @@ UPDATE: You can now find a live web feed from most sources below at [foorilla.co
 
 - [8bitconcepts](https://8bitconcepts.com) - Independent research on enterprise AI adoption — agentic accountability, hallucination budgets, governance gaps. 10+ papers, weekly. (RSS feed: https://8bitconcepts.com/feed.xml)
 
+- [8bitconcepts Research](https://8bitconcepts.com/research/overview.html) - Research-only feed — auto-refreshed weekly practitioner AI research (hiring, MCP, compensation, remote trends, entry-level gap). Separate from the main 8bc feed so consumers can subscribe to research only. (RSS feed: https://8bitconcepts.com/research/feed.xml)
+
 - [Not Human Search — Weekly Digest](https://nothumansearch.ai/) - Weekly snapshot of the MCP / agentic-web ecosystem: new indexed sites, MCP-verified endpoints, llms.txt discoveries. 8,000+ agent-native sites tracked. (RSS feed: https://nothumansearch.ai/digest.rss)
 
 - [Ahead of AI](https://magazine.sebastianraschka.com) - Ahead AI specializes in Machine Learning &amp; AI research and is read by more than 42,000 researchers and practitioners (across … (RSS feed: https://magazine.sebastianraschka.com/feed)
