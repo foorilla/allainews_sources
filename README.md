@@ -15,6 +15,8 @@ UPDATE: You can now find a live web feed from most sources below at [foorilla.co
 
 - [404 Media](https://www.404media.co/) - 404 Media is a new independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph … (RSS feed: https://www.404media.co/rss)
 
+- [8bitconcepts](https://8bitconcepts.com) - Independent research on enterprise AI adoption — agentic accountability, hallucination budgets, governance gaps. 10+ papers, weekly. (RSS feed: https://8bitconcepts.com/feed.xml)
+
 - [Ahead of AI](https://magazine.sebastianraschka.com) - Ahead AI specializes in Machine Learning &amp; AI research and is read by more than 42,000 researchers and practitioners (across … (RSS feed: https://magazine.sebastianraschka.com/feed)
 
 - [AI Accelerator Institute | Future of Artificial Intelligence](https://www.aiacceleratorinstitute.com/) - Next Generation Machine Intelligence (RSS feed: https://aiacceleratorinstitute.com/rss/)
@@ -562,6 +564,8 @@ UPDATE: You can now find a live web feed from most sources below at [foorilla.co
 **[⬆ back to top](#contents)**
 
 ## AI, ML, Big Data Jobs
+
+- [AI Dev Jobs](https://aidevboard.com/) - AI/ML engineering job board with 8,400+ active listings from 580 ATS sources (Anthropic, OpenAI, Meta FAIR, DeepMind, Scale, Cohere, and 475+ more). Free REST API + MCP server. (RSS feed: https://aidevboard.com/feed.xml)
 
 - [aijobs.net](https://aijobs.net/) - The most comprehensive, lean and clean, no-nonsense job site related to all things Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), Data Engineering, Data Analytics, Big Data, and Data Science in general. (RSS feed: https://aijobs.net/feed/)
 
